@@ -6,8 +6,8 @@
 
 - [📗 Table of Contents](#-table-of-contents)
 - [📖 Hello World Rails-React ](#-hello-world-rails-react-)
-  - [🛠 Built With ](#-built-with-)
-    - [Tech Stack ](#tech-stack-)
+  - [🛠 Built With Ruby on Rails and React](#-built-with-ruby-on-rails-and-react)
+    - [Tech Stack FullStack](#tech-stack-fullstack)
     - [Key Features ](#key-features-)
   - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
@@ -31,9 +31,9 @@
 
 **Hello World Rails-React** is an app where I connected a rails db for backend with react components to show the frontend.
 
-## 🛠 Built With <a name="built-with"></a>
+## 🛠 Built With <a name="built-with">Ruby on Rails and React</a>
 
-### Tech Stack <a name="tech-stack"></a>
+### Tech Stack <a name="tech-stack">FullStack</a>
 
 <details>
   <summary>Client</summary>
